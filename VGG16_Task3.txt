@@ -1,0 +1,1421 @@
+Loaded 7000 images under train
+Loaded 2990 images under test
+Classes: 
+Epoch 0/10
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 0 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 0 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 0 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 0 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 0 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Epoch 1/10
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 1 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 1 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 1 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 1 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 1 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Epoch 2/10
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 2 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 2 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 2 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 2 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 2 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Epoch 3/10
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 3 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 3 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0
+Validation batch 4600/1400.0
+Validation batch 4700/1400.0
+Validation batch 4800/1400.0
+Validation batch 4900/1400.0
+Validation batch 5000/1400.0
+Validation batch 5100/1400.0
+Validation batch 5200/1400.0
+Validation batch 5300/1400.0
+Validation batch 5400/1400.0
+Validation batch 5500/1400.0
+Validation batch 5600/1400.0
+Validation batch 5700/1400.0
+Validation batch 5800/1400.0
+Validation batch 5900/1400.0
+Validation batch 6000/1400.0
+Validation batch 6100/1400.0
+Validation batch 6200/1400.0
+Validation batch 6300/1400.0
+Validation batch 6400/1400.0
+Validation batch 6500/1400.0
+Validation batch 6600/1400.0
+Validation batch 6700/1400.0
+Validation batch 6800/1400.0
+Validation batch 6900/1400.0
+
+Epoch 3 result: 
+Avg loss (train): nan
+Avg acc (train): 0.0000
+Avg loss (val): 0.0000
+Avg acc (val): 0.0000
+Validation batch 0/1400.0
+Validation batch 100/1400.0
+Validation batch 200/1400.0
+Validation batch 300/1400.0
+Validation batch 400/1400.0
+Validation batch 500/1400.0
+Validation batch 600/1400.0
+Validation batch 700/1400.0
+Validation batch 800/1400.0
+Validation batch 900/1400.0
+Validation batch 1000/1400.0
+Validation batch 1100/1400.0
+Validation batch 1200/1400.0
+Validation batch 1300/1400.0
+Validation batch 1400/1400.0
+Validation batch 1500/1400.0
+Validation batch 1600/1400.0
+Validation batch 1700/1400.0
+Validation batch 1800/1400.0
+Validation batch 1900/1400.0
+Validation batch 2000/1400.0
+Validation batch 2100/1400.0
+Validation batch 2200/1400.0
+Validation batch 2300/1400.0
+Validation batch 2400/1400.0
+Validation batch 2500/1400.0
+Validation batch 2600/1400.0
+Validation batch 2700/1400.0
+Validation batch 2800/1400.0
+Validation batch 2900/1400.0
+Validation batch 3000/1400.0
+Validation batch 3100/1400.0
+Validation batch 3200/1400.0
+Validation batch 3300/1400.0
+Validation batch 3400/1400.0
+Validation batch 3500/1400.0
+Validation batch 3600/1400.0
+Validation batch 3700/1400.0
+Validation batch 3800/1400.0
+Validation batch 3900/1400.0
+Validation batch 4000/1400.0
+Validation batch 4100/1400.0
+Validation batch 4200/1400.0
+Validation batch 4300/1400.0
+Validation batch 4400/1400.0
+Validation batch 4500/1400.0

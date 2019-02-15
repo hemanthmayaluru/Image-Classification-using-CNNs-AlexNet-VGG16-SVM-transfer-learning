@@ -1,0 +1,101 @@
+Loaded 7000 images under train
+Loaded 2990 images under test
+Classes: 
+The selected classes are:  [1, 8, 9, 0, 7, 2, 4, 5, 6, 3]
+Training batch 0/7000
+Training batch 100/7000
+Training batch 200/7000
+Training batch 300/7000
+Training batch 400/7000
+Training batch 500/7000
+Training batch 600/7000
+Training batch 700/7000
+Training batch 800/7000
+Training batch 900/7000
+Training batch 1000/7000
+Training batch 1100/7000
+Training batch 1200/7000
+Training batch 1300/7000
+Training batch 1400/7000
+Training batch 1500/7000
+Training batch 1600/7000
+Training batch 1700/7000
+Training batch 1800/7000
+Training batch 1900/7000
+Training batch 2000/7000
+Training batch 2100/7000
+Training batch 2200/7000
+Training batch 2300/7000
+Training batch 2400/7000
+Training batch 2500/7000
+Training batch 2600/7000
+Training batch 2700/7000
+Training batch 2800/7000
+Training batch 2900/7000
+Training batch 3000/7000
+Training batch 3100/7000
+Training batch 3200/7000
+Training batch 3300/7000
+Training batch 3400/7000
+Training batch 3500/7000
+Training batch 3600/7000
+Training batch 3700/7000
+Training batch 3800/7000
+Training batch 3900/7000
+Training batch 4000/7000
+Training batch 4100/7000
+Training batch 4200/7000
+Training batch 4300/7000
+Training batch 4400/7000
+Training batch 4500/7000
+Training batch 4600/7000
+Training batch 4700/7000
+Training batch 4800/7000
+Training batch 4900/7000
+Training batch 5000/7000
+Training batch 5100/7000
+Training batch 5200/7000
+Training batch 5300/7000
+Training batch 5400/7000
+Training batch 5500/7000
+Training batch 5600/7000
+Training batch 5700/7000
+Training batch 5800/7000
+Training batch 5900/7000
+Training batch 6000/7000
+Training batch 6100/7000
+Training batch 6200/7000
+Training batch 6300/7000
+Training batch 6400/7000
+Training batch 6500/7000
+Training batch 6600/7000
+Training batch 6700/7000
+Training batch 6800/7000
+Training batch 6900/7000
+Confusion Matrix
+[[103   3   5   3   5   1   7   2   9   3]
+ [  1  92   5  16   7   7  12   0   8   3]
+ [  7   4  92   7   4   3   4   2   9   2]
+ [  5  21   8  69   5   9   6   0   3   4]
+ [  8   8   3   5  74   2   7   6   1  21]
+ [  7   5   1  13   1 101   4   1   7   4]
+ [  7  12   6  13  13   5  74   2   8   3]
+ [  4   3   4   8   6   3   6  93   6   3]
+ [ 12   2   2   4   8   9   4   6  80   4]
+ [  1   7   2  12  29  10   7  10   6  71]]
+------------------------------
+List of classification Accuracy
+[[  0 103]
+ [  5 101]
+ [  7  93]
+ [  1  92]
+ [  2  92]
+ [  8  80]
+ [  6  74]
+ [  4  74]
+ [  9  71]
+ [  3  69]]
+ The best classification accuracy is:  inf
+ The worst classification accuracy is:  inf
+1 / 5 The score for this classification is:  0.6064285714285714
+The mean and standard deviation of classification for AlexNet is:  0.6064285714285714 0.0 for class size:  10

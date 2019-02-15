@@ -1,0 +1,101 @@
+Loaded 7000 images under train
+Loaded 2990 images under test
+Classes: 
+The selected classes are:  [1, 6, 4, 0, 9, 5, 2, 7, 8, 3]
+Training batch 0/7000
+Training batch 100/7000
+Training batch 200/7000
+Training batch 300/7000
+Training batch 400/7000
+Training batch 500/7000
+Training batch 600/7000
+Training batch 700/7000
+Training batch 800/7000
+Training batch 900/7000
+Training batch 1000/7000
+Training batch 1100/7000
+Training batch 1200/7000
+Training batch 1300/7000
+Training batch 1400/7000
+Training batch 1500/7000
+Training batch 1600/7000
+Training batch 1700/7000
+Training batch 1800/7000
+Training batch 1900/7000
+Training batch 2000/7000
+Training batch 2100/7000
+Training batch 2200/7000
+Training batch 2300/7000
+Training batch 2400/7000
+Training batch 2500/7000
+Training batch 2600/7000
+Training batch 2700/7000
+Training batch 2800/7000
+Training batch 2900/7000
+Training batch 3000/7000
+Training batch 3100/7000
+Training batch 3200/7000
+Training batch 3300/7000
+Training batch 3400/7000
+Training batch 3500/7000
+Training batch 3600/7000
+Training batch 3700/7000
+Training batch 3800/7000
+Training batch 3900/7000
+Training batch 4000/7000
+Training batch 4100/7000
+Training batch 4200/7000
+Training batch 4300/7000
+Training batch 4400/7000
+Training batch 4500/7000
+Training batch 4600/7000
+Training batch 4700/7000
+Training batch 4800/7000
+Training batch 4900/7000
+Training batch 5000/7000
+Training batch 5100/7000
+Training batch 5200/7000
+Training batch 5300/7000
+Training batch 5400/7000
+Training batch 5500/7000
+Training batch 5600/7000
+Training batch 5700/7000
+Training batch 5800/7000
+Training batch 5900/7000
+Training batch 6000/7000
+Training batch 6100/7000
+Training batch 6200/7000
+Training batch 6300/7000
+Training batch 6400/7000
+Training batch 6500/7000
+Training batch 6600/7000
+Training batch 6700/7000
+Training batch 6800/7000
+Training batch 6900/7000
+Confusion Matrix
+[[105   8   6   4   0   4   8   5   3   0]
+ [  5  84   4   7   2   9   3   6   3   2]
+ [  9   5 116   5   0   3   2   3  11   4]
+ [  5  11   3  88   0  11   6   4   2   0]
+ [  1   3   0   0 122   3   3   2   3   1]
+ [  3  14   5  10   6  80   7  15   5   5]
+ [ 14   8   1   5   3  10  71  11   0   6]
+ [  5   7   4   6   1  21   4  87   3  10]
+ [  5   7  10   3   0   1   8   2  90   0]
+ [  4   4   4   3   0  11  10   7   1 109]]
+------------------------------
+List of classification Accuracy
+[[  4 122]
+ [  2 116]
+ [  9 109]
+ [  0 105]
+ [  8  90]
+ [  3  88]
+ [  7  87]
+ [  1  84]
+ [  5  80]
+ [  6  71]]
+ The best classification accuracy is:  inf
+ The worst classification accuracy is:  inf
+1 / 5 The score for this classification is:  0.68
+The mean and standard deviation of classification for vgg 16 is:  0.68 0.0 for class size:  10

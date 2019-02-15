@@ -1,0 +1,4 @@
+Loaded 21000 images under train
+Loaded 9867 images under test
+Classes: 
+Epoch 0/4
