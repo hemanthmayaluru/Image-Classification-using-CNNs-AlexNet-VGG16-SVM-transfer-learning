@@ -1,217 +1,0 @@
-Loaded 7000 images under train
-Loaded 2990 images under test
-Classes: 
-Epoch 0/5
-Validation batch 0/70.0
-
-Epoch 0 result: 
-Avg loss (train): 0.0137
-Avg acc (train): 0.4286
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 0 result: 
-Avg loss (train): 0.0912
-Avg acc (train): 0.5557
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 0 result: 
-Avg loss (train): 0.1615
-Avg acc (train): 0.5979
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 0 result: 
-Avg loss (train): 0.2249
-Avg acc (train): 0.6857
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 0 result: 
-Avg loss (train): 0.2803
-Avg acc (train): 0.6743
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Epoch 1/5
-Validation batch 0/70.0
-
-Epoch 1 result: 
-Avg loss (train): 0.0072
-Avg acc (train): 0.6486
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 1 result: 
-Avg loss (train): 0.0561
-Avg acc (train): 0.7036
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 1 result: 
-Avg loss (train): 0.1091
-Avg acc (train): 0.7164
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 1 result: 
-Avg loss (train): 0.1580
-Avg acc (train): 0.6921
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 1 result: 
-Avg loss (train): 0.2095
-Avg acc (train): 0.7307
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Epoch 2/5
-Validation batch 0/70.0
-
-Epoch 2 result: 
-Avg loss (train): 0.0064
-Avg acc (train): 0.7207
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 2 result: 
-Avg loss (train): 0.0501
-Avg acc (train): 0.7321
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 2 result: 
-Avg loss (train): 0.0983
-Avg acc (train): 0.7264
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 2 result: 
-Avg loss (train): 0.1449
-Avg acc (train): 0.7529
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 2 result: 
-Avg loss (train): 0.1896
-Avg acc (train): 0.7757
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Epoch 3/5
-Validation batch 0/70.0
-
-Epoch 3 result: 
-Avg loss (train): 0.0053
-Avg acc (train): 0.7493
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 3 result: 
-Avg loss (train): 0.0432
-Avg acc (train): 0.7286
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 3 result: 
-Avg loss (train): 0.0895
-Avg acc (train): 0.7636
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 3 result: 
-Avg loss (train): 0.1320
-Avg acc (train): 0.7729
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 3 result: 
-Avg loss (train): 0.1728
-Avg acc (train): 0.7736
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Epoch 4/5
-Validation batch 0/70.0
-
-Epoch 4 result: 
-Avg loss (train): 0.0050
-Avg acc (train): 0.7729
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 4 result: 
-Avg loss (train): 0.0425
-Avg acc (train): 0.7250
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 4 result: 
-Avg loss (train): 0.0854
-Avg acc (train): 0.7707
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 4 result: 
-Avg loss (train): 0.1234
-Avg acc (train): 0.7650
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-Validation batch 0/70.0
-
-Epoch 4 result: 
-Avg loss (train): 0.1647
-Avg acc (train): 0.7693
-Avg loss (val): 0.0000
-Avg acc (val): 0.0000
-
-Training completed in 7m 34s
-Best acc: 0.0000
-Testing the trained model
-Test batch 0/150
-Test batch 100/150
-
-Evaluation completed in 0m 7s
-Avg loss (test): 0.1237
-Avg acc (test): 0.0893
-----------
-Confusion Matrix
-[[ 89 182   0   0   1   8   0  13   3   3]
- [ 87  99   1   2   0  41   2  39   1  27]
- [ 41 183   0   0   5  31   2  31   0   6]
- [ 33 152   2   1   1  55   2  20   2  31]
- [ 77  63   1   0   0  98   7  20   4  29]
- [ 36 187   3   1   2  22   1  39   1   7]
- [ 80 103   1   2   3  60   7  16   1  26]
- [ 76  42   1   7   1 118  16  13   0  25]
- [ 45 189   2   0   0  36   3  11   1  12]
- [ 76 100   0   4   2  59   3  18   2  35]]
-------------------------------
-List of classification Accuracy
-[[  1.  99.]
- [  0.  89.]
- [  9.  35.]
- [  5.  22.]
- [  7.  13.]
- [  6.   7.]
- [  3.   1.]
- [  8.   1.]]
- The best classification accuracy is:  inf
- The worst classification accuracy is:  0.00334448160535
