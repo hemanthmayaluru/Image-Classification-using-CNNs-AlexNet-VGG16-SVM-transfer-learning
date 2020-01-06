@@ -1,83 +1,0 @@
-Loaded 7000 images under train
-Loaded 2990 images under test
-Classes: 
-The selected classes are:  [8, 2, 4, 0, 5, 6, 7, 9, 3, 1]
-Training batch 0/7000
-Training batch 100/7000
-Training batch 200/7000
-Training batch 300/7000
-Training batch 400/7000
-Training batch 500/7000
-Training batch 600/7000
-Training batch 700/7000
-Training batch 800/7000
-Training batch 900/7000
-Training batch 1000/7000
-Training batch 1100/7000
-Training batch 1200/7000
-Training batch 1300/7000
-Training batch 1400/7000
-Training batch 1500/7000
-Training batch 1600/7000
-Training batch 1700/7000
-Training batch 1800/7000
-Training batch 1900/7000
-Training batch 2000/7000
-Training batch 2100/7000
-Training batch 2200/7000
-Training batch 2300/7000
-Training batch 2400/7000
-Training batch 2500/7000
-Training batch 2600/7000
-Training batch 2700/7000
-Training batch 2800/7000
-Training batch 2900/7000
-Training batch 3000/7000
-Training batch 3100/7000
-Training batch 3200/7000
-Training batch 3300/7000
-Training batch 3400/7000
-Training batch 3500/7000
-Training batch 3600/7000
-Training batch 3700/7000
-Training batch 3800/7000
-Training batch 3900/7000
-Training batch 4000/7000
-Training batch 4100/7000
-Training batch 4200/7000
-Training batch 4300/7000
-Training batch 4400/7000
-Training batch 4500/7000
-Training batch 4600/7000
-Training batch 4700/7000
-Training batch 4800/7000
-Training batch 4900/7000
-Training batch 5000/7000
-Training batch 5100/7000
-Training batch 5200/7000
-Training batch 5300/7000
-Training batch 5400/7000
-Training batch 5500/7000
-Training batch 5600/7000
-Training batch 5700/7000
-Training batch 5800/7000
-Training batch 5900/7000
-Training batch 6000/7000
-Training batch 6100/7000
-Training batch 6200/7000
-Training batch 6300/7000
-Training batch 6400/7000
-Training batch 6500/7000
-Training batch 6600/7000
-Training batch 6700/7000
-Training batch 6800/7000
-Training batch 6900/7000
-1 / 5 The score for this classification is:  0.646428571429
-2 / 5 The score for this classification is:  0.63
-3 / 5 The score for this classification is:  0.606428571429
-4 / 5 The score for this classification is:  0.607142857143
-5 / 5 The score for this classification is:  0.642857142857
-The mean and standard deviation of classification for AlexNet is:  0.626571428571 0.0170557309777 for class size:  10
-Loaded 21000 images under train
-Loaded 8970 images under test
-Classes: 
