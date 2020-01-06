@@ -1,311 +1,0 @@
-Loaded 21000 images under train
-Loaded 8970 images under test
-Classes: 
-The selected classes are:  [17, 26, 10, 15, 22, 29, 0, 27, 28, 16, 21, 4, 20, 19, 2, 14, 8, 13, 7, 6, 25, 5, 12, 23, 11, 24, 3, 1, 18, 9]
-Training batch 0/21000
-Training batch 100/21000
-Training batch 200/21000
-Training batch 300/21000
-Training batch 400/21000
-Training batch 500/21000
-Training batch 600/21000
-Training batch 700/21000
-Training batch 800/21000
-Training batch 900/21000
-Training batch 1000/21000
-Training batch 1100/21000
-Training batch 1200/21000
-Training batch 1300/21000
-Training batch 1400/21000
-Training batch 1500/21000
-Training batch 1600/21000
-Training batch 1700/21000
-Training batch 1800/21000
-Training batch 1900/21000
-Training batch 2000/21000
-Training batch 2100/21000
-Training batch 2200/21000
-Training batch 2300/21000
-Training batch 2400/21000
-Training batch 2500/21000
-Training batch 2600/21000
-Training batch 2700/21000
-Training batch 2800/21000
-Training batch 2900/21000
-Training batch 3000/21000
-Training batch 3100/21000
-Training batch 3200/21000
-Training batch 3300/21000
-Training batch 3400/21000
-Training batch 3500/21000
-Training batch 3600/21000
-Training batch 3700/21000
-Training batch 3800/21000
-Training batch 3900/21000
-Training batch 4000/21000
-Training batch 4100/21000
-Training batch 4200/21000
-Training batch 4300/21000
-Training batch 4400/21000
-Training batch 4500/21000
-Training batch 4600/21000
-Training batch 4700/21000
-Training batch 4800/21000
-Training batch 4900/21000
-Training batch 5000/21000
-Training batch 5100/21000
-Training batch 5200/21000
-Training batch 5300/21000
-Training batch 5400/21000
-Training batch 5500/21000
-Training batch 5600/21000
-Training batch 5700/21000
-Training batch 5800/21000
-Training batch 5900/21000
-Training batch 6000/21000
-Training batch 6100/21000
-Training batch 6200/21000
-Training batch 6300/21000
-Training batch 6400/21000
-Training batch 6500/21000
-Training batch 6600/21000
-Training batch 6700/21000
-Training batch 6800/21000
-Training batch 6900/21000
-Training batch 7000/21000
-Training batch 7100/21000
-Training batch 7200/21000
-Training batch 7300/21000
-Training batch 7400/21000
-Training batch 7500/21000
-Training batch 7600/21000
-Training batch 7700/21000
-Training batch 7800/21000
-Training batch 7900/21000
-Training batch 8000/21000
-Training batch 8100/21000
-Training batch 8200/21000
-Training batch 8300/21000
-Training batch 8400/21000
-Training batch 8500/21000
-Training batch 8600/21000
-Training batch 8700/21000
-Training batch 8800/21000
-Training batch 8900/21000
-Training batch 9000/21000
-Training batch 9100/21000
-Training batch 9200/21000
-Training batch 9300/21000
-Training batch 9400/21000
-Training batch 9500/21000
-Training batch 9600/21000
-Training batch 9700/21000
-Training batch 9800/21000
-Training batch 9900/21000
-Training batch 10000/21000
-Training batch 10100/21000
-Training batch 10200/21000
-Training batch 10300/21000
-Training batch 10400/21000
-Training batch 10500/21000
-Training batch 10600/21000
-Training batch 10700/21000
-Training batch 10800/21000
-Training batch 10900/21000
-Training batch 11000/21000
-Training batch 11100/21000
-Training batch 11200/21000
-Training batch 11300/21000
-Training batch 11400/21000
-Training batch 11500/21000
-Training batch 11600/21000
-Training batch 11700/21000
-Training batch 11800/21000
-Training batch 11900/21000
-Training batch 12000/21000
-Training batch 12100/21000
-Training batch 12200/21000
-Training batch 12300/21000
-Training batch 12400/21000
-Training batch 12500/21000
-Training batch 12600/21000
-Training batch 12700/21000
-Training batch 12800/21000
-Training batch 12900/21000
-Training batch 13000/21000
-Training batch 13100/21000
-Training batch 13200/21000
-Training batch 13300/21000
-Training batch 13400/21000
-Training batch 13500/21000
-Training batch 13600/21000
-Training batch 13700/21000
-Training batch 13800/21000
-Training batch 13900/21000
-Training batch 14000/21000
-Training batch 14100/21000
-Training batch 14200/21000
-Training batch 14300/21000
-Training batch 14400/21000
-Training batch 14500/21000
-Training batch 14600/21000
-Training batch 14700/21000
-Training batch 14800/21000
-Training batch 14900/21000
-Training batch 15000/21000
-Training batch 15100/21000
-Training batch 15200/21000
-Training batch 15300/21000
-Training batch 15400/21000
-Training batch 15500/21000
-Training batch 15600/21000
-Training batch 15700/21000
-Training batch 15800/21000
-Training batch 15900/21000
-Training batch 16000/21000
-Training batch 16100/21000
-Training batch 16200/21000
-Training batch 16300/21000
-Training batch 16400/21000
-Training batch 16500/21000
-Training batch 16600/21000
-Training batch 16700/21000
-Training batch 16800/21000
-Training batch 16900/21000
-Training batch 17000/21000
-Training batch 17100/21000
-Training batch 17200/21000
-Training batch 17300/21000
-Training batch 17400/21000
-Training batch 17500/21000
-Training batch 17600/21000
-Training batch 17700/21000
-Training batch 17800/21000
-Training batch 17900/21000
-Training batch 18000/21000
-Training batch 18100/21000
-Training batch 18200/21000
-Training batch 18300/21000
-Training batch 18400/21000
-Training batch 18500/21000
-Training batch 18600/21000
-Training batch 18700/21000
-Training batch 18800/21000
-Training batch 18900/21000
-Training batch 19000/21000
-Training batch 19100/21000
-Training batch 19200/21000
-Training batch 19300/21000
-Training batch 19400/21000
-Training batch 19500/21000
-Training batch 19600/21000
-Training batch 19700/21000
-Training batch 19800/21000
-Training batch 19900/21000
-Training batch 20000/21000
-Training batch 20100/21000
-Training batch 20200/21000
-Training batch 20300/21000
-Training batch 20400/21000
-Training batch 20500/21000
-Training batch 20600/21000
-Training batch 20700/21000
-Training batch 20800/21000
-Training batch 20900/21000
-Confusion Matrix
-[[ 27  13   2   1   1   2   2   4   5   4   4   6   0  14   6  10   1   0
-    3   1   3   3   0   3   3   5   4   1   4   4]
- [ 17  47   0   2   2   1   0   2   3   2   5   4   2   5   1   0   4   1
-    0   1   2   2   2   1   1   0   2   2   3   2]
- [  0   0  71   3  15   4   2   0   3   2   2   0   1   0   0   1   2   2
-    5   4   1   2   3   5   1   2   1   1   0   2]
- [  1   0   0  81   4   3   2   0   1   1  10   2   0   0   4   0   1   6
-    1   4   4   3   6   1   0   2   2   3   2   1]
- [  2   0  15   4  63   7   0   2   5   3   7   1   3   2   0   1   3   3
-    8   2   2   2   3   6   2   8   1   1   1   1]
- [  4   2  14   2  10  54   1   2   6   6   5   1   1   0   2   5   1   6
-    4   2   2   1   1   1   3   3   1   2   0   2]
- [  3   4   2   5   4   4  40   7   2   4   1   4   3   5   3   6   0   4
-    4   2   7   4  16   1   5   6   1   1   2   2]
- [  2   1   1   1   4   0  10  59   1   6   1   3   3   3   3   1   1   3
-    1   4   3   5   1   0   0   1   3   4   1   2]
- [  9   5   3   1   2   3   0   2  81   3   5   3   0   0   3   5   1   0
-    0   1   1   6   2   1   1   5   1   1   1   0]
- [  5   5   7   1   2   3   1   7   7  39   6   1   5   1   1   3   2   3
-    4   8   3   1   1   0   8   2   5   7   2   1]
- [ 10   4   3   8   4   4   2   1   7   6  46   3   0   1   2  10   0   1
-    3   4   0   2   1   1   3   1   1   2   1   4]
- [  7   5   1   0   3   2   0   5   1   2   3  66   4   5   1   1   2   2
-    0   0   1   0   2   1   1   3   2   4   4   5]
- [  4   1   1   1   3   2   1   2   1   3   1   3  64   4   0   4   2   1
-    1   8   1   3   6   1   4   0   6   0   1   2]
- [  9   6   1   1   0   1   3  10   1   5   4   5   4  47   3   3   0   0
-    4   4   8   4   1   2   1   1   3   1   6   6]
- [  8   1   2   2   1   8   7   7   3   5   6   2   2   3  47   2   2   8
-    2   3   1   3   2   1  11   1   3   2   2   6]
- [  7   6   0   4  10  11   4   0   7   2   6   7   5   3   2  31   5   2
-    8   1   2   3  11   4   5   1   1   1   4   2]
- [  1   3   2   1   3   1   2   0   0   1   0   1   1   0   1   1 116   1
-    0   2   2   0   5   0   3   1   0   0   1   1]
- [  5   0   3   8   1   4   2   4   1   7   4   0  10   1   5   1   0  59
-    2   7   1   3   0   1   5   1   4   0   0   0]
- [  2   3   7   3   3   5   2   2   3   2   5   3   2   1   0   1   1   0
-   73   3   3   3   1   0   4   4   1   2   1   2]
- [  4   2   2   1   1   3   2  10   1   9   3   2   5   6   4   3   0   2
-    1  30  12   2   0   0   8   0  15   0   3   3]
- [  3   0   1   3   3   2   5  11   1   8   0   3   4   7   6   1   5   2
-    1   7  32   4   1   3   1   1  12   1   0   1]
- [  6   3   5   5   0   3   5   3   8   6   2   3   0   7   5   7   0   2
-    5   5   9  30   2   1   0   1   2   2   2   4]
- [  1   6   3   9   3   3  11   0   5   3   7   2   2   0   1   4   5   3
-    1   8   3   0  43   0   4   0   1   3   0   1]
- [  2   1   3   0   1   0   0   1   0   0   1   7   1   1   0   1   3   1
-    2   1   2   0   0  93   0   4   0   0  16   2]
- [  3   2   2   3   2   5   8   0   0   7   3   1   3   1   4  10   1   3
-    7   3   0   1   5   0  54   1   1   0   1   1]
- [  0   3   6   2   9   4   0   0   3   0   1   4   1   2   0   2   2   2
-    1   0   2   0   1   0   0  93   0   0   2   1]
- [  3   2   6   5   4   1   1  16   2   7   2   5   6   6   4   2   0   3
-    1  12  14   3   4   3   5   1  26   2   4   1]
- [  3   3   6   7   8   5   4   3   4   4   3   5   7   2   5   2   1  10
-    8   1   0   9   4   1   1   1   1  34   5   3]
- [ 10   2   2   2   1   2   1   0   3   1   2   6   5   3   1   1   3   0
-    5   1   3   4   0  11   1   1   5   2  55   3]
- [  8   4   1   3   1   5   3   4   1   0   6  14   3   8   1   2   1   1
-    4   0   1   4   1   3   1   2   1   4   2  47]]
-------------------------------
-List of classification Accuracy
-[[ 16 116]
- [ 23  93]
- [ 25  93]
- [  8  81]
- [  3  81]
- [ 18  73]
- [  2  71]
- [ 11  66]
- [ 12  64]
- [  4  63]
- [  7  59]
- [ 17  59]
- [ 28  55]
- [  5  54]
- [ 24  54]
- [ 13  47]
- [ 14  47]
- [ 29  47]
- [  1  47]
- [ 10  46]
- [ 22  43]
- [  6  40]
- [  9  39]
- [ 27  34]
- [ 20  32]
- [ 15  31]
- [ 21  30]
- [ 19  30]
- [  0  27]
- [ 26  26]]
- The best classification accuracy is:  inf
- The worst classification accuracy is:  0.006622516556291391
-1 / 5 The score for this classification is:  0.3923809523809524
-The mean and standard deviation of classification for AlexNet is:  0.3923809523809524 0.0 for class size:  30
